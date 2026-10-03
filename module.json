@@ -2,7 +2,7 @@
     "id": "5e-statblock-importer",
     "title": "5e Statblock Importer",
     "description": "Import monster and NPC statblocks (2014 and 2024 layouts) for the D&D Fifth Edition system.",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "compatibility": {
         "minimum": "14",
         "verified": "14"
